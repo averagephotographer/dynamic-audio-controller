@@ -10,6 +10,11 @@ fun another_thing (num):
 	x + 2
 	return	
 
+- idea number three
+	fun asdfjioe(weoifj):
+		aoiefha
+		return
+
 revision_1:
 -tell which applications are playing audio and which aren't
 -set priorities for specific applications
