@@ -5,6 +5,10 @@ todo:
 -change the volume levels of specific applications
 -have a defualt (lower) volume for spotify to change depending on what application is playing audio
 
+- another idea i have
+fun another_thing (num):
+	x * 2
+	return
 
 revision_1:
 -tell which applications are playing audio and which aren't
