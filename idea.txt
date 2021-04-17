@@ -7,8 +7,8 @@ todo:
 
 - another idea i have
 fun another_thing (num):
-	x * 2
-	return
+	x + 2
+	return	
 
 revision_1:
 -tell which applications are playing audio and which aren't
