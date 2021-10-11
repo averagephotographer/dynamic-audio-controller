@@ -1,7 +1,7 @@
 # Dynamic Audio Controller
 
 ## Idea
-This idea cam around when I was trying to switch between listening to Spotify and watching YouTube tutorials quickly. I'd go pause one and unpause the other and undo it when I went back to work. This got tedious so I decided to make a script to automate it for me.
+This idea came around when I was trying to switch between listening to Spotify and watching YouTube tutorials quickly. I'd go pause one and unpause the other and undo it when I went back to work. This got tedious so I decided to make a script to automate it for me.
 
 
 ## How it works
